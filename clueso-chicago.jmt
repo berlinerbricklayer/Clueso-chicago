@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jmatch-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Maurer</dc:creator>
+    <dc:title>Clueso - Chicago (Easy: German and English)</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>Clueso - Chicago (Easy: German and English)</title>
+
+<timer><seconds>240</seconds><include-timer>1</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<matching-exercise>
+<default-right-item>???</default-right-item>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;undsietraumt.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;undsietraumt.mp3&quot; title=&quot;undsietraumt.mp3&quot;&amp;#x003E;undsietraumt.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Und sie tr&amp;#x00E4;umt von Chicago, von Chicago&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;And she dreams of Chicago, of Chicago&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;irgendwo.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;irgendwo.mp3&quot; title=&quot;irgendwo.mp3&quot;&amp;#x003E;irgendwo.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Irgendwo wo sie keiner kennt&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Somewhere, where no one knows her&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>
+&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;&amp;#x003C;source src=&quot;dortwoniemand.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;dortwoniemand.mp3&quot; title=&quot;dortwoniemand.mp3&quot;&amp;#x003E;dortwoniemand.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Dort wo niemand, niemand ihren Namen nennt&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;There where nobody, nobody calls her name&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;ichkommnie.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;ichkommnie.mp3&quot; title=&quot;ichkommnie.mp3&quot;&amp;#x003E;ichkommnie.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Ich komm nie mehr! Ich bin in Chicago, in Chicago&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I won&apos;t come any more! I am in Chicago, in Chicago&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;nureinekleine.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;nureinekleine.mp3&quot; title=&quot;nureinekleine.mp3&quot;&amp;#x003E;nureinekleine.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Nur eine kleine Nachricht ist alles was sie hinterlassen hat&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Just a small note is all she left behind&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;immerda.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;immerda.mp3&quot; title=&quot;immerda.mp3&quot;&amp;#x003E;immerda.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Sie ist immer da wo was los ist&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;She is always there where it&apos;s happening&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;&amp;#x003C;source src=&quot;immermittendrin.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;immermittendrin.mp3&quot; title=&quot;immermittendrin.mp3&quot;&amp;#x003E;immermittendrin.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Immer mitten in der Stadt&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;Always in the middle of the city&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;&amp;#x003C;source src=&quot;wodiekleinewelt.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;wodiekleinewelt.mp3&quot; title=&quot;wodiekleinewelt.mp3&quot;&amp;#x003E;wodiekleinewelt.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Dort wo die kleine Welt ganz gro&amp;#x00DF; ist&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;There, where the small world is pretty big&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>&amp;#x003C;audio controls=&quot;controls&quot;&amp;#x003E;
+&amp;#x003C;source src=&quot;sienimmtsiemit.mp3&quot; type=&quot;audio/mp3&quot;/&amp;#x003E;
+&amp;#x003C;a href=&quot;sienimmtsiemit.mp3&quot; title=&quot;sienimmtsiemit.mp3&quot;&amp;#x003E;sienimmtsiemit.mp3&amp;#x003C;/a&amp;#x003E;
+&amp;#x003C;/audio&amp;#x003E;</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Sie nimmt dich mit nach Chicago, nach Chicago&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;She takes you with to Chicago, to Chicago&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text></text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Ich kann sicher nicht mit meiner Cousine tanzen&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I certainly can&apos;t dance with my cousin&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text></text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Ich kann sicher nicht mit meiner Cousine tanzen&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I certainly can&apos;t dance with my cousin&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text></text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>&amp;#x003C;strong&amp;#x003E;Ich kann sicher nicht mit meiner Cousine tanzen&amp;#x003C;/strong&amp;#x003E; &amp;#x003C;br&amp;#x003E; &amp;#x003C;FONT COLOR=&quot;ff0000&quot;&amp;#x003E; &amp;#x003C;em&amp;#x003E;I certainly can&apos;t dance with my cousin&amp;#x003C;/em&amp;#x003E;</text>
+<fixed>0</fixed>
+</right-item></pair>
+</matching-exercise>
+</data>
+
+<hotpot-config-file>
+<jmatch>
+<exercise-subtitle>Matching exercise</exercise-subtitle>
+<instructions>Match the items on the right to the items on the left.</instructions>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<show-limited-questions>1</show-limited-questions>
+<questions-to-show>7</questions-to-show>
+<shuffle-questions>1</shuffle-questions>
+<separate-javascript-file>1</separate-javascript-file>
+<next-caption>Next</next-caption>
+<delete-caption>Delete</delete-caption>
+<guess-correct>Alles richtig! Sehr gut! &amp;#x003C;br&amp;#x003E; &amp;#x003C;em&amp;#x003E;All correct! Very good!&amp;#x003C;/em&amp;#x003E;</guess-correct>
+<guess-incorrect>Tut mir Leid. Versuch es nochmal! &amp;#x003C;br&amp;#x003E;  &amp;#x003C;em&amp;#x003E; Sorry. Try again! &amp;#x003C;/em&amp;#x003E;</guess-incorrect>
+</jmatch>
+
+<global>
+<your-score-is>Dein Ergebnis ist... &amp;#x003C;br&amp;#x003E; &amp;#x003C;em&amp;#x003E;Your result is... &amp;#x003C;/em&amp;#x003E;</your-score-is>
+<correct-indicator>&amp;#x2714; Richtig</correct-indicator>
+<incorrect-indicator>&amp;#x2718; Falsch</incorrect-indicator>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>1</include-scorm-12>
+<times-up>Die Zeit ist um! &amp;#x003C;em&amp;#x003E;  Time is up! &amp;#x003C;em&amp;#x003E;</times-up>
+<check-caption>Check</check-caption>
+<ok-caption>OK</ok-caption>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>0</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url>chicago.jpg</graphic-url>
+<font-face>&quot;Century Gothic&quot;,&quot;Berlin Sans FB&quot;,&quot;Bauhaus 93&quot;,&quot;Book Antiqua&quot;,Geneva,Arial,sans-serif</font-face>
+<font-size>large</font-size>
+<page-bg-color>#C0C0C0</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#000000</nav-bar-color>
+<formmail-url>http://jeffcoschools.us/cgi-bin/FormMail.pl</formmail-url>
+<email>amaurer@jeffcoschools.us</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jmatch-file>
